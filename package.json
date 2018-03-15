@@ -34,5 +34,7 @@
     "lint-staged": "7.0.0",
     "prettier": "1.11.1"
   },
-  "engines": {}
+  "engines": {
+    "node": ">=6.0.0"
+  }
 }
