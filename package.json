@@ -18,7 +18,7 @@
     "url": "https://github.com/capitect/boilerplate-package-name.git"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jasmine"
   },
   "dependencies": {},
   "devDependencies": {
