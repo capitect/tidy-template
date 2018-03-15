@@ -1,2 +1,2 @@
-# node-boilerplate
-A starting point for node packages
+# boilerplate-package-name
+Boilerplate package description
