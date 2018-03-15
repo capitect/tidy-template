@@ -8,7 +8,7 @@
     "url": "https://github.com/capitect/tidy-template/issues"
   },
   "license": "MIT",
-  "author": "",
+  "author": "Jonathan Hironaga <jonathan@capitect.com>",
   "files": [
     "lib/"
   ],
