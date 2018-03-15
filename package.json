@@ -18,7 +18,14 @@
     "url": "https://github.com/capitect/boilerplate-package-name.git"
   },
   "scripts": {
+    "precommit": "lint-staged",
     "test": "jasmine"
+  },
+  "lint-staged": {
+    "*.{js,ts}": [
+      "prettier --write",
+      "git add"
+    ]
   },
   "dependencies": {},
   "devDependencies": {
