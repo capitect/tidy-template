@@ -1,0 +1,26 @@
+{
+  "name": "boilerplate-package-name",
+  "version": "1.0.0",
+  "description": "Boilerplate package description",
+  "keywords": [],
+  "homepage": "https://github.com/capitect/boilerplate-package-name#readme",
+  "bugs": {
+    "url": "https://github.com/capitect/boilerplate-package-name/issues"
+  },
+  "license": "MIT",
+  "author": "",
+  "files": [
+    "lib/"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/capitect/boilerplate-package-name.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {}
+}
