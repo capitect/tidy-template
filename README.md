@@ -7,6 +7,8 @@ npm install tidy-template
 ```
 
 ## Usage
+**Node v6.0.0+ is required.**
+
 ```javascript
 const tidy = require('tidy-template');
 
