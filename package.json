@@ -12,7 +12,8 @@
   "files": [
     "lib/"
   ],
-  "main": "index.js",
+  "main": "lib/tidy-template.js",
+  "types": "lib/tidy-template.d.ts",
   "repository": {
     "type": "git",
     "url": "https://github.com/capitect/tidy-template.git"
