@@ -30,14 +30,16 @@ tidy`
 `;
 // '1\n  2'
 
-// Relative indentation of interpolated multiline strings is preserved.
+// Relative indentation of interpolated multiline strings is
+// preserved.
 tidy`
   0
     ${'1\n  2'}
 `;
 // '0\n  1\n    2'
 
-// The content and last line can be indented as much or as little as you like.
+// The content and last line can be indented as much or as
+// little as you like.
         tidy`
           1
             2
@@ -57,8 +59,9 @@ tidy`
 `;
 // '1\n\t2'
 
-// Empty and whitespace-only lines are ignored when calculating common indentation,
-// but are included when removing it.
+// Empty and whitespace-only lines are ignored when
+// calculating common indentation, but are included when
+// removing it.
 tidy`
 
 \t
