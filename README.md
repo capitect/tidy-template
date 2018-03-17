@@ -13,15 +13,7 @@ npm install tidy-template
 const tidy = require('tidy-template');
 ```
 
-The first and last lines are removed.
-```javascript
-tidy`
-1
-`;
-// '1'
-```
-
-Common indentation is removed.
+The first line, last line, and common indentation are removed.
 ```javascript
 tidy`
   1
