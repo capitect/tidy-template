@@ -1,7 +1,7 @@
 {
   "name": "tidy-template",
   "version": "1.0.0",
-  "description": "Tag to remove extra whitespace from multiline JavaScript template literals",
+  "description": "Indentation fixer for [nested] multiline JavaScript template literals",
   "keywords": [],
   "homepage": "https://github.com/capitect/tidy-template#readme",
   "bugs": {
