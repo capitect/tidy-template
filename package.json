@@ -1,6 +1,6 @@
 {
   "name": "tidy-template",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Indentation fixer for [nested] multiline JavaScript template literals",
   "keywords": [],
   "homepage": "https://github.com/capitect/tidy-template#readme",
