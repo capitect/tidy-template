@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.7] - 2020-06-05
+### Security
+- Upgrade lint-staged to v10.2.9 to resolve vulnerabilities.
+
 ## [1.0.6] - 2019-12-03
 ### Added
 - Add CHANGELOG.
@@ -41,7 +45,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Initial tidyTemplate implementation and spec.
 
-[Unreleased]: https://github.com/capitect/tidy-template/compare/v1.0.6...HEAD
+[Unreleased]: https://github.com/capitect/tidy-template/compare/v1.0.7...HEAD
+[1.0.7]: https://github.com/capitect/tidy-template/compare/v1.0.6...v1.0.7
 [1.0.6]: https://github.com/capitect/tidy-template/compare/v1.0.5...v1.0.6
 [1.0.5]: https://github.com/capitect/tidy-template/compare/v1.0.4...v1.0.5
 [1.0.4]: https://github.com/capitect/tidy-template/compare/v1.0.3...v1.0.4
