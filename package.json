@@ -30,7 +30,7 @@
   "dependencies": {},
   "devDependencies": {
     "husky": "4.2.5",
-    "jasmine": "3.1.0",
+    "jasmine": "3.5.0",
     "lint-staged": "10.2.9",
     "prettier": "1.11.1"
   },
