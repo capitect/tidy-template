@@ -24,15 +24,14 @@
   },
   "lint-staged": {
     "*.{js,ts}": [
-      "prettier --write",
-      "git add"
+      "prettier --write"
     ]
   },
   "dependencies": {},
   "devDependencies": {
     "husky": "0.14.3",
     "jasmine": "3.1.0",
-    "lint-staged": "8.2.1",
+    "lint-staged": "10.2.9",
     "prettier": "1.11.1"
   },
   "engines": {
