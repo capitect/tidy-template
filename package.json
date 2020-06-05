@@ -32,7 +32,7 @@
     "husky": "4.2.5",
     "jasmine": "3.5.0",
     "lint-staged": "10.2.9",
-    "prettier": "1.11.1"
+    "prettier": "2.0.5"
   },
   "engines": {
     "node": ">=6.0.0"
